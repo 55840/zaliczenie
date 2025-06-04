@@ -918,7 +918,7 @@
                 {
                     "name": "",
                     "id": "06f1e0ee-58e2-4177-b257-3cfcc0386cd2",
-                    "path": "<Mouse>/leftButton",
+                    "path": "<Keyboard>/q",
                     "interactions": "",
                     "processors": "",
                     "groups": "Keyboard&Mouse",
